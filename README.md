@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on Agentic Rag System. <br>I am looking to collboration on Agentic system with are Rag and Agents. <br>i am looking for help with finanacial partners. <br>ask me about django drf and fast api system. <br>deeply thinking<br><br><br>
+I am a forward-thinking engineer working on Agentic RAG (Retrieval-Augmented Generation) systems, focused on building scalable, production-ready AI solutions by combining autonomous agents and intelligent retrieval pipelines.<br><br>My interests lie at the intersection of LLM-powered agents, RAG architectures, and backend systems, with an emphasis on reliability, modular design, and real-world deployment.<br><br>I am open to collaboration with engineers and researchers exploring agentic systems, RAG frameworks, and multi-agent architectures, and I am also open to discussions with financial or strategic partners interested in applied AI products.<br><br>Feel free to ask me about Django REST Framework and FastAPI, especially for AI-driven APIs and system design.<br><br>I value deep thinking, clarity, and long-term vision when building meaningful systems.
 
 
 ## 🌐 Socials:
