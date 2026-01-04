@@ -1,5 +1,28 @@
-# 💫 About Me:
-I am a forward-thinking engineer working on Agentic RAG (Retrieval-Augmented Generation) systems, focused on building scalable, production-ready AI solutions by combining autonomous agents and intelligent retrieval pipelines.<br><br>My interests lie at the intersection of LLM-powered agents, RAG architectures, and backend systems, with an emphasis on reliability, modular design, and real-world deployment.<br><br>I am open to collaboration with engineers and researchers exploring agentic systems, RAG frameworks, and multi-agent architectures, and I am also open to discussions with financial or strategic partners interested in applied AI products.<br><br>Feel free to ask me about Django REST Framework and FastAPI, especially for AI-driven APIs and system design.<br><br>I value deep thinking, clarity, and long-term vision when building meaningful systems.
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Full Stack Engineer || Backend == Django / DRF / FastAPI || FrontEnd === ReactJS / NextJS **
+
+Email Me 👉 ✉️ **msaadnaseem.dev@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Agentic Rag System.
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Multi Agent Rag Sytem.
+- 🤔 **I’m looking for help with:** Finanacial Partners
+- 💬 **Ask me about:** Django / DRF / FastAPI
+- 📫 **How to reach me:** https://msndev.netlify.app/
+- 😄 **Pronouns:** MSN.Dev
+- ⚡ **Fun fact:** I Love Solve Problems and Think Deeply
+
+## 🔗 I am a Full Stack Developer. 😊😊
+
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 
 ## 🌐 Socials:
