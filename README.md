@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Muhammad Saad Naseem
 **A passionate Full Stack Engineer || Backend == Django / DRF / FastAPI || FrontEnd === ReactJS / NextJS **
 
-Email Me 👉 ✉️ **msaadnaseem.dev@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **msaadnaseem.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Agentic Rag System.
 - 🌱 **I’m currently learning:** Enter your tech here
