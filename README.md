@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Muhammad Saad Naseem
-**A passionate Full Stack Engineer || Backend == Django / DRF / FastAPI || FrontEnd === ReactJS / NextJS **
+**A passionate BackEnd / Agentic AI Engineer || Backend == Django / DRF / FastAPI || Agentic AI **
 
 Email Me 👉 ✉️ **msaadnaseem.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **msaadnaseem.dev@gmail.com** For Collaboration/Project or 
 - 💬 **Ask me about:** Django / DRF / FastAPI
 - 📫 **How to reach me:** https://msndev.netlify.app/
 - 😄 **Pronouns:** MSN.Dev
-- ⚡ **Fun fact:** I Love Solve Problems and Think Deeply
+- ⚡ **Fun fact:** I Love to Solve Problems and Think Deeply
 
 ## 🔗 I am a Full Stack Developer. 😊😊
 
